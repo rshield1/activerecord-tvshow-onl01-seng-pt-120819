@@ -1,0 +1,1 @@
+class createshowstable < ActiveRecord::Migrate
